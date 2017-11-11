@@ -10,7 +10,7 @@ Dependencies
 * Jupter Notebook
 ---
 Building and run
-* If the above dependences are installed, a jupter notebook can be used to demonstrate the implementation using Keras. or by writting the following command from your terminal
+* If the above dependences are installed, a jupter notebook can be used to demonstrate the implementation using Keras. or by writing the following command from your terminal
   * python3 image classification using Keras.py
 * For tensorflow version: write the following command from your terminal
   * python3 image classification using tensorflow.py
